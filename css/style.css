@@ -1192,9 +1192,9 @@ pre code {
   }
   .col-md-6 {
     -webkit-box-flex: 0;
-    -ms-flex: 0 0 100%;
-    flex: 0 0 100%;
-    max-width: 100%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
   }
   .col-md-7 {
     -webkit-box-flex: 0;
