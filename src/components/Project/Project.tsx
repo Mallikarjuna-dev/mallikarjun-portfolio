@@ -6,6 +6,7 @@ import chatApp from "../../assets/chatApp-1.png";
 import rodanFields from "../../assets/Rodan+feilds-2.png";
 import rentoMojo from "../../assets/rentomojo-3.png";
 import essentialsIndia from "../../assets/project-2.png";
+import nineWest from "../../assets/ninewest-6.png";
 
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -18,23 +19,29 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg
-                width="40"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="#23ce6b "
-                stroke-width="1"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+              <a
+                href="https://github.com/Mallikarjuna-dev/livechat-mern"
+                target="_blank"
+                rel="noreferrer"
               >
-                <title>Folder</title>
-                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
-              </svg>
+                <svg
+                  width="40"
+                  xmlns="http://www.w3.org/2000/svg"
+                  role="img"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="#23ce6b "
+                  stroke-width="1"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <title>Folder</title>
+                  <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </a>
               <div className="project-links">
                 <a
-                  href="https://kameleon.co.in/"
+                  href="https://livechat-mern.onrender.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -74,23 +81,29 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg
-                width="40"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="#23ce6b "
-                stroke-width="1"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+              <a
+                href="https://github.com/Mallikarjuna-dev/serene-scarecrow-3205"
+                target="_blank"
+                rel="noreferrer"
               >
-                <title>Folder</title>
-                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
-              </svg>
+                <svg
+                  width="40"
+                  xmlns="http://www.w3.org/2000/svg"
+                  role="img"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="#23ce6b "
+                  stroke-width="1"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <title>Folder</title>
+                  <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </a>
               <div className="project-links">
                 <a
-                  href="https://madewithluv.in/"
+                  href="https://serene-scarecrow-3205.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -133,23 +146,30 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg
-                width="40"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="#23ce6b "
-                stroke-width="1"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+              <a
+                href="https://github.com/Mallikarjuna-dev/rentomojo-clone"
+                target="_blank"
+                rel="noreferrer"
               >
-                <title>Folder</title>
-                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
-              </svg>
+                <svg
+                  width="40"
+                  xmlns="http://www.w3.org/2000/svg"
+                  role="img"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="#23ce6b "
+                  stroke-width="1"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <title>Folder</title>
+                  <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </a>
+
               <div className="project-links">
                 <a
-                  href="https://justmedicalbooks.com/"
+                  href="https://rentomojo-clone-lake.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -187,6 +207,26 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
+              <a
+                href="https://github.com/Mallikarjuna-dev/forestessentialsindia"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <svg
+                  width="40"
+                  xmlns="http://www.w3.org/2000/svg"
+                  role="img"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="#23ce6b "
+                  stroke-width="1"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <title>Folder</title>
+                  <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </a>
               <svg
                 width="40"
                 xmlns="http://www.w3.org/2000/svg"
@@ -203,7 +243,7 @@ export function Project() {
               </svg>
               <div className="project-links">
                 <a
-                  href="https://justmedicalbooks.com/"
+                  href="https://festive-golick-9141f1.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -241,20 +281,26 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg
-                width="50"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="#23ce6b "
-                stroke-width="1"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+              <a
+                href="https://github.com/Mallikarjuna-dev/restAPI_mern"
+                target="_blank"
+                rel="noreferrer"
               >
-                <title>Folder</title>
-                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
-              </svg>
+                <svg
+                  width="50"
+                  xmlns="http://www.w3.org/2000/svg"
+                  role="img"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="#23ce6b "
+                  stroke-width="1"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <title>Folder</title>
+                  <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </a>
               <div className="project-links">
                 <a
                   href="https://drrohitdamor.com"
@@ -265,6 +311,14 @@ export function Project() {
                 </a>
               </div>
             </header>
+            <div className="project-image">
+              <img
+                src={essentialsIndia}
+                alt="project2"
+                width="100%"
+                height="220px"
+              />
+            </div>
             <div className="body">
               <h3>Dr.Rohit Damor - Online Appointment Booking Site</h3>
               <p>
@@ -286,23 +340,29 @@ export function Project() {
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
-              <svg
-                width="50"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="#23ce6b "
-                stroke-width="1"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+              <a
+                href="https://github.com/Mallikarjuna-dev/Ikea_frontend"
+                target="_blank"
+                rel="noreferrer"
               >
-                <title>Folder</title>
-                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
-              </svg>
+                <svg
+                  width="50"
+                  xmlns="http://www.w3.org/2000/svg"
+                  role="img"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="#23ce6b "
+                  stroke-width="1"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <title>Folder</title>
+                  <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </a>
               <div className="project-links">
                 <a
-                  href="https://velocityai.vinayaksingh.com/"
+                  href="https://heuristic-lewin-ff60a9.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -310,6 +370,11 @@ export function Project() {
                 </a>
               </div>
             </header>
+
+            <div className="project-image">
+              <img src={nineWest} alt="project2" width="100%" height="220px" />
+            </div>
+
             <div className="body">
               <h3>VeloCityAI</h3>
               <p>
