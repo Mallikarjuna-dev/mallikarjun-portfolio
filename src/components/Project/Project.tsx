@@ -323,10 +323,7 @@ export function Project() {
               <h3>Dr.Rohit Damor - Online Appointment Booking Site</h3>
               <p>
                 This website allows people to easily book appointments with you
-                online. It takes just a minute to schedule a meeting. This kind
-                of site is helpful for booking appointments and not missing any
-                potential clients. You should try this website to see how
-                convenient and efficient it is.
+                online. It takes just a minute to schedule a meeting.
               </p>
             </div>
             <footer>
@@ -341,7 +338,7 @@ export function Project() {
           <div className="project">
             <header>
               <a
-                href="https://github.com/Mallikarjuna-dev/Ikea_frontend"
+                href="https://github.com/Mallikarjuna-dev/ninewest-clone"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -376,12 +373,12 @@ export function Project() {
             </div>
 
             <div className="body">
-              <h3>VeloCityAI</h3>
+              <h3>Nine-West Clone - </h3>
               <p>
-                VelocityAI is a website that allows users to get instant answers
-                to any question and generate stunning AI pictures using OpenAI's
-                GPT-3 and DALL-E model.With VelocityAI, users can type in
-                text-based prompts and receive a corresponding response.
+                A clone of NINE-WEST e-commerce website. Nine West is an
+                American online fashion retailer. Initially founded as a fashion
+                footwear brand, expanded into handbags, sunglasses, outerwear,
+                belts, watches, and more accessories.
               </p>
             </div>
             <footer>
