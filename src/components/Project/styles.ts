@@ -43,13 +43,9 @@ export const Container = styled.section`
           gap: 1rem;
         }
         a > img {
-          width: 4.8rem;
+          width: 4.6rem;
         }
       }
-
-      // .project-image1 {
-      //   margin-bottom: 1rem;
-      // }
 
       h3 {
         margin-bottom: 2rem;

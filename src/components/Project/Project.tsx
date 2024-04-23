@@ -35,7 +35,7 @@ export function Project() {
                   stroke-linecap="round"
                   stroke-linejoin="round"
                 >
-                  <title>Folder</title>
+                  <title>Code</title>
                   <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
                 </svg>
               </a>
@@ -44,6 +44,7 @@ export function Project() {
                   href="https://livechat-mern.onrender.com/"
                   target="_blank"
                   rel="noreferrer"
+                  title="Demo"
                 >
                   <img src={externalLink} alt="Visit site" />
                 </a>
@@ -97,7 +98,7 @@ export function Project() {
                   stroke-linecap="round"
                   stroke-linejoin="round"
                 >
-                  <title>Folder</title>
+                  <title>Code</title>
                   <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
                 </svg>
               </a>
@@ -106,6 +107,7 @@ export function Project() {
                   href="https://serene-scarecrow-3205.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
+                  title="Demo"
                 >
                   <img src={externalLink} alt="Visit site" />
                 </a>
@@ -162,7 +164,7 @@ export function Project() {
                   stroke-linecap="round"
                   stroke-linejoin="round"
                 >
-                  <title>Folder</title>
+                  <title>Code</title>
                   <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
                 </svg>
               </a>
@@ -172,6 +174,7 @@ export function Project() {
                   href="https://rentomojo-clone-lake.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
+                  title="Demo"
                 >
                   <img src={externalLink} alt="Visit site" />
                 </a>
@@ -223,29 +226,16 @@ export function Project() {
                   stroke-linecap="round"
                   stroke-linejoin="round"
                 >
-                  <title>Folder</title>
+                  <title>Code</title>
                   <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
                 </svg>
               </a>
-              <svg
-                width="40"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="#23ce6b "
-                stroke-width="1"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <title>Folder</title>
-                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
-              </svg>
               <div className="project-links">
                 <a
                   href="https://festive-golick-9141f1.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
+                  title="Demo"
                 >
                   <img src={externalLink} alt="Visit site" />
                 </a>
@@ -287,7 +277,7 @@ export function Project() {
                 rel="noreferrer"
               >
                 <svg
-                  width="50"
+                  width="40"
                   xmlns="http://www.w3.org/2000/svg"
                   role="img"
                   viewBox="0 0 24 24"
@@ -297,7 +287,7 @@ export function Project() {
                   stroke-linecap="round"
                   stroke-linejoin="round"
                 >
-                  <title>Folder</title>
+                  <title>Code</title>
                   <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
                 </svg>
               </a>
@@ -306,6 +296,7 @@ export function Project() {
                   href="https://drrohitdamor.com"
                   target="_blank"
                   rel="noreferrer"
+                  title="Demo"
                 >
                   <img src={externalLink} alt="Visit site" />
                 </a>
@@ -343,7 +334,7 @@ export function Project() {
                 rel="noreferrer"
               >
                 <svg
-                  width="50"
+                  width="40"
                   xmlns="http://www.w3.org/2000/svg"
                   role="img"
                   viewBox="0 0 24 24"
@@ -353,7 +344,7 @@ export function Project() {
                   stroke-linecap="round"
                   stroke-linejoin="round"
                 >
-                  <title>Folder</title>
+                  <title>Code</title>
                   <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
                 </svg>
               </a>
@@ -362,6 +353,7 @@ export function Project() {
                   href="https://heuristic-lewin-ff60a9.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
+                  title="Demo"
                 >
                   <img src={externalLink} alt="Visit site" />
                 </a>
@@ -373,7 +365,7 @@ export function Project() {
             </div>
 
             <div className="body">
-              <h3>Nine-West Clone - </h3>
+              <h3>Nine-West Clone - Fashion Retailer Site</h3>
               <p>
                 A clone of NINE-WEST e-commerce website. Nine West is an
                 American online fashion retailer. Initially founded as a fashion
