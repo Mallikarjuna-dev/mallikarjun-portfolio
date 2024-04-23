@@ -6,6 +6,7 @@ import chatApp from "../../assets/chatApp-1.png";
 import rodanFields from "../../assets/Rodan+feilds-2.png";
 import rentoMojo from "../../assets/rentomojo-3.png";
 import essentialsIndia from "../../assets/project-2.png";
+import restApi from "../../assets/restapi-5.png";
 import nineWest from "../../assets/ninewest-6.png";
 
 import ScrollAnimation from "react-animate-on-scroll";
@@ -71,6 +72,7 @@ export function Project() {
                 <li>MongoDB</li>
                 <li>Firebase-auth</li>
                 <li>socket-io</li>
+                <li>Express js</li>
                 <li>Tailwindcss</li>
                 <li>& Chakra UI</li>
               </ul>
@@ -133,12 +135,13 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-                <li>React js</li>
                 <li>Javascript</li>
+                <li>React js</li>
                 <li>Redux-Thunk</li>
                 <li>HTML5</li>
                 <li>CSS3</li>
                 <li>Chakra UI</li>
+                <li>Json-server</li>
               </ul>
             </footer>
           </div>
@@ -197,10 +200,72 @@ export function Project() {
               <ul className="tech-list">
                 <li>Javascript</li>
                 <li>React js</li>
+                <li>Redux-Thunk</li>
                 <li>HTML5</li>
                 <li>CSS3</li>
                 <li>Chakra UI</li>
                 <li>Json-server</li>
+              </ul>
+            </footer>
+          </div>
+        </ScrollAnimation>
+
+        {/* A Goal Setter Application - Restful API Site */}
+        <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <a
+                href="https://github.com/Mallikarjuna-dev/restAPI_mern"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <svg
+                  width="40"
+                  xmlns="http://www.w3.org/2000/svg"
+                  role="img"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="#23ce6b "
+                  stroke-width="1"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <title>Code</title>
+                  <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </a>
+              <div className="project-links">
+                <a
+                  href="https://restapi-mern.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                  title="Demo"
+                >
+                  <img src={externalLink} alt="Visit site" />
+                </a>
+              </div>
+            </header>
+            <div className="project-image">
+              <img src={restApi} alt="project2" width="100%" height="220px" />
+            </div>
+            <div className="body">
+              <h3>A Goal Setter Application - Restful API Site</h3>
+              <p>
+                This website allows people to easily book appointments with you
+                online. It takes just a minute to schedule a meeting.
+              </p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>Javascript</li>
+                <li>React js</li>
+                <li>Redux-Toolkit</li>
+                <li>Node js</li>
+                <li>MongoDB</li>
+                <li>HTML5</li>
+                <li>Express js</li>
+                <li>JWT</li>
+                <li>CSS3</li>
               </ul>
             </footer>
           </div>
@@ -268,63 +333,7 @@ export function Project() {
           </div>
         </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
-          <div className="project">
-            <header>
-              <a
-                href="https://github.com/Mallikarjuna-dev/restAPI_mern"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <svg
-                  width="40"
-                  xmlns="http://www.w3.org/2000/svg"
-                  role="img"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="#23ce6b "
-                  stroke-width="1"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                >
-                  <title>Code</title>
-                  <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
-                </svg>
-              </a>
-              <div className="project-links">
-                <a
-                  href="https://drrohitdamor.com"
-                  target="_blank"
-                  rel="noreferrer"
-                  title="Demo"
-                >
-                  <img src={externalLink} alt="Visit site" />
-                </a>
-              </div>
-            </header>
-            <div className="project-image">
-              <img
-                src={essentialsIndia}
-                alt="project2"
-                width="100%"
-                height="220px"
-              />
-            </div>
-            <div className="body">
-              <h3>Dr.Rohit Damor - Online Appointment Booking Site</h3>
-              <p>
-                This website allows people to easily book appointments with you
-                online. It takes just a minute to schedule a meeting.
-              </p>
-            </div>
-            <footer>
-              <ul className="tech-list">
-                <li>Wordpress</li>
-              </ul>
-            </footer>
-          </div>
-        </ScrollAnimation>
-
+        {/* ForestEssentialsIndia - Beauty product Site */}
         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
@@ -375,10 +384,9 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-                <li>React</li>
-                <li>Typescript</li>
-                <li>Html</li>
-                <li>css</li>
+                <li>Javascript</li>
+                <li>HTML5</li>
+                <li>CSS3</li>
               </ul>
             </footer>
           </div>
