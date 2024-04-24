@@ -4,17 +4,22 @@ import { Hero } from "../Hero/Hero";
 import { About } from "../About/About";
 import { Contact } from "../Contact/Contact";
 import { Project } from "../Project/Project";
-import wordpress from "../../assets/git-icon.svg";
-import shopify from "../../assets/postman-icon.svg";
+import jsIcon from "../../assets/js-icon.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
-import sassIcon from "../../assets/sass-icon.svg";
-import jsIcon from "../../assets/js-icon.svg";
-import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
+import nodeIcon from "../../assets/node-icon.svg";
+import nextIcon from "../../assets/nextjs-icon.svg";
+
+import sassIcon from "../../assets/sass-icon.svg";
+import vscodeIcon from "../../assets/vscode-icon.svg";
+import gitIcon from "../../assets/git-icon.svg";
+import postmanIcon from "../../assets/postman-icon.svg";
+
 import vueIcon from "../../assets/vue-icon.svg";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
+import tailwindcssIcon from "../../assets/tailwindcss-icon.svg";
 
 export function Main() {
   return (
@@ -149,22 +154,7 @@ export function Main() {
               },
               image: [
                 {
-                  src: boostrapIcon,
-                  width: 20,
-                  height: 20,
-                },
-                {
-                  src: cssIcon,
-                  width: 20,
-                  height: 20,
-                },
-                {
-                  src: wordpress,
-                  width: 20,
-                  height: 20,
-                },
-                {
-                  src: shopify,
+                  src: jsIcon,
                   width: 20,
                   height: 20,
                 },
@@ -174,17 +164,7 @@ export function Main() {
                   height: 20,
                 },
                 {
-                  src: jsIcon,
-                  width: 20,
-                  height: 20,
-                },
-                // {
-                //   "src": mysqlIcon,
-                //   "width": 20,
-                //   "height": 20
-                // },
-                {
-                  src: nodeIcon,
+                  src: cssIcon,
                   width: 20,
                   height: 20,
                 },
@@ -194,7 +174,12 @@ export function Main() {
                   height: 20,
                 },
                 {
-                  src: sassIcon,
+                  src: nextIcon,
+                  width: 20,
+                  height: 20,
+                },
+                {
+                  src: nodeIcon,
                   width: 20,
                   height: 20,
                 },
@@ -203,11 +188,37 @@ export function Main() {
                   width: 20,
                   height: 20,
                 },
-                // {
-                //   "src": vscodeIcon,
-                //   "width": 20,
-                //   "height": 20
-                // },
+                {
+                  src: tailwindcssIcon,
+                  width: 20,
+                  height: 20,
+                },
+                {
+                  src: boostrapIcon,
+                  width: 20,
+                  height: 20,
+                },
+                {
+                  src: sassIcon,
+                  width: 20,
+                  height: 20,
+                },
+
+                {
+                  src: vscodeIcon,
+                  width: 20,
+                  height: 20,
+                },
+                {
+                  src: gitIcon,
+                  width: 20,
+                  height: 20,
+                },
+                {
+                  src: postmanIcon,
+                  width: 20,
+                  height: 20,
+                },
                 {
                   src: vueIcon,
                   width: 20,

@@ -71,6 +71,7 @@ export function Project() {
                 <li>Node js</li>
                 <li>MongoDB</li>
                 <li>Firebase-auth</li>
+                <li>JWT</li>
                 <li>socket-io</li>
                 <li>Express js</li>
                 <li>Tailwindcss</li>
@@ -187,13 +188,13 @@ export function Project() {
               <img src={rentoMojo} alt="project2" width="100%" height="220px" />
             </div>
             <div className="body">
-              <h3>RentoMojo Clone - Book Selling Site</h3>
+              <h3>RentoMojo Clone - Online Rental Platform</h3>
               <p>
-                RentoMojo is an online rental company that offers rental
-                services for everything you need, from furniture to appliances.
-                It is India's leading rental platform, providing a wide range of
-                products for rent. My team, consisting of four members, built
-                this project within one week during the Construct Week at Masai.
+                RentoMojo is an online rental platform that provides furniture,
+                appliances & electronics (mobiles, laptops) on a monthly rental
+                basis. providing a wide range of products for rent. My team,
+                consisting of four members, built this project within one week
+                during the Construct Week at Masai.
               </p>
             </div>
             <footer>
@@ -251,8 +252,10 @@ export function Project() {
             <div className="body">
               <h3>A Goal Setter Application - Restful API Site</h3>
               <p>
-                This website allows people to easily book appointments with you
-                online. It takes just a minute to schedule a meeting.
+                Developed a dynamic goal-setting application with seamless
+                registration, login, & backend integration. Utilizing
+                cutting-edge technologies like React, Redux/toolkit, Node.js &
+                I've crafted an intuitive user friendly interface.
               </p>
             </div>
             <footer>
@@ -384,9 +387,10 @@ export function Project() {
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Javascript</li>
                 <li>HTML5</li>
                 <li>CSS3</li>
+                <li>Javascript</li>
+                <li>Advanced Javascript</li>
               </ul>
             </footer>
           </div>

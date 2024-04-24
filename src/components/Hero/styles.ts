@@ -17,10 +17,12 @@ export const Container = styled.section`
     h3 {
       color: var(--green);
       margin: 1rem 0;
+      font-size: 2rem;
     }
 
     p.small-resume {
       margin-bottom: 5rem;
+      font-size: 1.6rem;
     }
   }
   // New added
@@ -30,12 +32,12 @@ export const Container = styled.section`
     justify-content: space-between;
     gap: 1rem;
     padding-top: 5rem;
-    padding-left: 1rem;
+    padding-left: 0.2rem;
 
     img,
     span {
       font-size: 3rem;
-      width: 3.5rem;
+      width: 3.7rem;
     }
   }
 

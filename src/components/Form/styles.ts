@@ -39,6 +39,7 @@ export const Container = styled.div`
 
     button {
       padding: 1rem 6rem;
+      margin-top: 0.5rem;
       text-transform: uppercase;
     }
   }
